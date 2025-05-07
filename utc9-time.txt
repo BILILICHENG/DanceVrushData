@@ -2,6 +2,7 @@
 2025-06-16
 //
 19701001
-Waring:Just Test
+🚨 请注意！（简体中文） 当前版本仍然保留了所有歌曲文件！如果你是笨蛋的话你就不懂我的意思 😞\n\r  🚨 ご注意ください！（日本語） 現在のバージョンにはすべての楽曲ファイルが残っています！もしあなたがバカなら、私の言いたいことがわからないでしょう 😞\n\r  🚨 Please Note!（English） The current version still contains all song files! If you're a dummy, you won't get what I mean 😞\n\r  🚨 주의하세요!（한국어） 현재 버전에는 모든 곡 파일이 여전히 포함되어 있습니다! 멍청이라면, 제 말이 무슨 뜻인지 이해 못 하실 겁니다 😞
+
 0,1,2,4
 7,9
