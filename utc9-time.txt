@@ -2,6 +2,6 @@
 2025-06-16
 //
 19701001
-<color=#FF9000>“它们还在，只是有点‘害羞’，等你主动去发现。”「まだそこにあるけど、ちょっと‘恥ずかしがり屋’だから、君が見つけるのを待っているよ。」"They're still there, just a little 'shy,' waiting for you to discover them on your own.""아직 거기 있지만, 조금 ‘수줍어’ 해서 너가 발견할 때까지 기다리고 있어."</color>
+OK
 0,1,2,4
 7,9
