@@ -1,8 +1,8 @@
 2025-10-26
-=====2026-06-15
-=====//
-=====19701001
-=====Waring:<size=35><color=#E53935>【简体中文（大陆）】请注意！由于 Test 9 的影响，我们将于 2025 年 12 月 31 日关闭 Test 3 的在线服务。届时，您将无法进行上传游戏成绩、查询成绩、查看排行榜等操作。在 2025 年 12 月 31 日前上传的数据我们会尽可能为您保留，但我们不会开放访问权限，请您知悉！</color></size><space=700><voffset=-50><size=35><color=#FB8C00>【繁體中文（台灣）】請注意！受到 Test 9 的影響，我們將於 2025 年 12 月 31 日關閉 Test 3 的線上服務。屆時您將無法上傳遊戲成績、查詢成績或排行榜等功能。在 2025 年 12 月 31 日前上傳的資料我們會盡力為您保留，但不會開放存取權限，敬請留意！</color></size></voffset><space=400><voffset=-50><size=30><color=#43A047>【日本語】ご注意ください！Test 9 の影響により、2025年12月31日をもって Test 3 のオンラインサービスを終了いたします。その後はスコアのアップロードやランキングの確認などができなくなります。2025年12月31日までにアップロードされたデータは可能な限り保存しますが、閲覧はできませんのでご了承ください。</color></size></voffset><space=100><voffset=-50><size=25><color=#1E88E5>【한국어】주의해주세요! Test 9의 영향으로 2025년 12월 31일부로 Test 3 온라인 서비스를 종료합니다. 그 이후에는 게임 점수 업로드, 조회, 랭킹 확인 등의 기능을 이용할 수 없습니다. 2025년 12월 31일 이전에 업로드된 데이터는 최대한 보존하겠지만, 열람은 불가능하니 참고 부탁드립니다.</color></size></voffset><space=1370><voffset=-50><size=20><color=#8E24AA>【English】Attention! Due to the impact of Test 9, we will be shutting down Test 3’s online services on December 31, 2025. After that date, you will no longer be able to upload your scores, check your records, or view the rankings. We will do our best to preserve the data uploaded before December 31, 2025, but access to it will no longer be available. Please be aware of this.</color></size></voffset>
-=====0,1,2,4
-=====2,3,4,5,6,7,9
-=====0
+¤¤¤2026-06-15
+¤¤¤//
+¤¤¤19701001
+¤¤¤Waring:<size=35><color=#E53935>【简体中文（大陆）】请注意！由于 Test 9 的影响，我们将于 2025 年 12 月 31 日关闭 Test 3 的在线服务。届时，您将无法进行上传游戏成绩、查询成绩、查看排行榜等操作。在 2025 年 12 月 31 日前上传的数据我们会尽可能为您保留，但我们不会开放访问权限，请您知悉！</color></size><space=700><voffset=-50><size=35><color=#FB8C00>【繁體中文（台灣）】請注意！受到 Test 9 的影響，我們將於 2025 年 12 月 31 日關閉 Test 3 的線上服務。屆時您將無法上傳遊戲成績、查詢成績或排行榜等功能。在 2025 年 12 月 31 日前上傳的資料我們會盡力為您保留，但不會開放存取權限，敬請留意！</color></size></voffset><space=400><voffset=-50><size=30><color=#43A047>【日本語】ご注意ください！Test 9 の影響により、2025年12月31日をもって Test 3 のオンラインサービスを終了いたします。その後はスコアのアップロードやランキングの確認などができなくなります。2025年12月31日までにアップロードされたデータは可能な限り保存しますが、閲覧はできませんのでご了承ください。</color></size></voffset><space=100><voffset=-50><size=25><color=#1E88E5>【한국어】주의해주세요! Test 9의 영향으로 2025년 12월 31일부로 Test 3 온라인 서비스를 종료합니다. 그 이후에는 게임 점수 업로드, 조회, 랭킹 확인 등의 기능을 이용할 수 없습니다. 2025년 12월 31일 이전에 업로드된 데이터는 최대한 보존하겠지만, 열람은 불가능하니 참고 부탁드립니다.</color></size></voffset><space=1370><voffset=-50><size=20><color=#8E24AA>【English】Attention! Due to the impact of Test 9, we will be shutting down Test 3’s online services on December 31, 2025. After that date, you will no longer be able to upload your scores, check your records, or view the rankings. We will do our best to preserve the data uploaded before December 31, 2025, but access to it will no longer be available. Please be aware of this.</color></size></voffset>
+¤¤¤0,1,2,4
+¤¤¤2,3,4,5,6,7,9
+¤¤¤0
